@@ -29,7 +29,7 @@ h6 {
     color: blue;
 }
 
-section {
+.flexible {
 
     display: flex;
     margin-bottom: 150px;
